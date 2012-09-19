@@ -1,0 +1,126 @@
+1)  KENNY
+[urgent, on the move, not too loud] C'est bon, on se dépêche.
+2)  BEATRICE
+
+20)  BEATRICE
+
+3)  KENNY
+{sadB} Elle est morte. On n'a plus beaucoup de temps.
+21)  KENNY
+{sadB} Elle est morte. On n'a plus beaucoup de temps.
+4)  KENNY
+{fearC}Ils arrivent ! {angryA}Allez !
+5)  KENNY
+{disgustA}C'est robuste, mais on a peu de temps.
+6)  KENNY
+{disgustA}On a du temps, {fearB}mais pas toute la journée.
+7)  KENNY
+[urgent] {angryA}Occupe-toi de ces étagères.
+56)  KENNY
+[urgent] {angryA}Occupe-toi de ces étagères.
+61)  KENNY
+[urgent] {angryA}Occupe-toi de ces étagères.
+8)  KENNY
+[urgent] {angryA}N'oublie pas sous le comptoir cette fois !
+57)  KENNY
+[urgent] {angryA}N'oublie pas sous le comptoir cette fois !
+62)  KENNY
+[urgent] {angryA}N'oublie pas sous le comptoir cette fois !
+9)  KENNY
+[urgent] {disgustA}Je m'occupe d'ici, {angryB}puis on se barre !
+58)  KENNY
+[urgent] {disgustA}Je m'occupe d'ici, {angryB}puis on se barre !
+63)  KENNY
+[urgent] {disgustA}Je m'occupe d'ici, {angryB}puis on se barre !
+10)  KENNY
+[urgent] {angryA}Pas le temps de causer !
+11)  KENNY
+[urgent] {angryA}Ramasse cette merde !
+12)  LEE
+[pickup 2] [new read: - Too shoutey - kenny's reaction to his voice does not match that lee has just screamed KENNY.][urgent] {angryC}Kenny!
+13)  KENNY
+[urgent] {angryA}Quoi ? [like, what do you want?] {angryC}On s'active !
+14)  KENNY
+[urgent] {angryC}Active-toi !
+15)  BEATRICE
+[screaming, fighting for her life, horrified, zombies grabbing at her, biting at her, gonna record a few of these with the same description for an idle.]
+16)  BEATRICE
+[screaming, fighting for her life, horrified, zombies grabbing at her, biting at her, gonna record a few of these with the same description for an idle.]
+17)  BEATRICE
+[screaming, fighting for her life, horrified, zombies grabbing at her, biting at her, gonna record a few of these with the same description for an idle.]
+18)  BEATRICE
+[screaming, fighting for her life, horrified, zombies grabbing at her, biting at her, gonna record a few of these with the same description for an idle.]
+19)  BEATRICE
+[screaming, fighting for her life, horrified, zombies grabbing at her, biting at her, gonna record a few of these with the same description for an idle.]
+22)  LEE
+[pickup 2] [new read:- Kenny is shouting, Lee is whispering. There should be consistencey here. Whisper or shout?] [urgent] {FearA}Je crois qu'on a tout !
+23)  KENNY
+[pickup 2] [new read:- Kenny is shouting, Lee is whispering. There should be consistencey here. Whisper or shout?][urgent] {sadA}Cette fille n'est pas morte pour rien.
+24)  KENNY
+[pickup 2] [new read:- Kenny is shouting, Lee is whispering. There should be consistencey here. Whisper or shout?][urgent] {fearA}Par-dessus !
+50)  KENNY
+[pickup 2] [new read:- Kenny is shouting, Lee is whispering. There should be consistencey here. Whisper or shout?][urgent] {fearA}Par-dessus !
+25)  LEE
+[a bunch of zombies fallign on you] {fearD}
+26)  LEE
+[trapped]{fearC} Kenny ! Aide-moi !
+27)  LEE
+[grabbed and bitten by zombies]
+28)  LEE
+[idle where Lee struggles to push a door off of him -- he is trapped under a pile of zombies]
+29)  LEE
+[escaping out from underneath a deadly pile of zombies] {fearC}
+51)  LEE
+[escaping out from underneath a deadly pile of zombies] {fearC}
+30)  LEE
+[pulling down a heavy bookshelf onto a pile of zombies] {angryC}
+31)  KENNY
+[urgent] {angryB} On fout le camp !
+32)  KENNY
+[killing zombies] {angryC}
+33)  KENNY
+[killing zombies] {angryC}Je m'occupe d'eux.
+34)  KENNY
+[killing zombies]  {angryC}
+35)  LEE
+[grabbed by zombie] {fearD}
+36)  LEE
+[smashing a zombie in the face with a bat]{angryC}
+37)  LEE
+[mashing a zombie in the face with a bat 2] {angryC}
+38)  LEE
+[mashing a zombie in the face with a bat 3] 
+39)  LEE
+[exhale, just saved your own life]{fearC}
+40)  KENNY
+{angryB}Partons !
+41)  KENNY
+{thinkingA}Partons.
+42)  KENNY
+{angryB}Ils sont partout. Tu t'es débrouillé, non ?
+43)  LEE
+{angryC}Qu'est-ce qui t'a pris ?
+44)  
+Frapper
+45)  
+Bouteille de médicaments
+46)  
+Boîte de médicaments
+47)  
+Barre énergétique
+48)  
+Comptoir
+49)  
+Etagère
+52)  KENNY
+[pickup2] Le frigo !
+53)  KENNY
+[pickup2] Le frigo !
+54)  
+Sauter par-dessus
+55)  
+Renverser
+59)  
+Provisions
+60)  
+Frigo

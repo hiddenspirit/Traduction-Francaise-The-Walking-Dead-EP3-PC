@@ -1,0 +1,56 @@
+1)  LEE
+Ouvrez ! On a un blessé !
+2)  LILLY
+Tu croyais qu'amener d'autres bouches à nourrir était une bonne idée ?
+30)  LILLY
+Tu croyais qu'amener d'autres bouches à nourrir était une bonne idée ?
+3)  KENNY
+Tu as été gentil avec ma famille.
+4)  KENNY
+Je dois penser à ma famille. Ceux qui m'accompagnent doivent penser à Kat et à Duck.
+5)  LEE
+Je sais...
+6)  KENNY
+Ca fait deux fois que tu laisses Duck en danger.
+8)  KENNY
+Je l'oublierai pas.
+9)  LEE
+Il paraît que tu veux quitter le motel.
+10)  KENNY
+C'est pas bon de rester ici. Viens avec nous, toi et Clem.
+11)  BANDIT2
+Personne cherche à t'évincer !
+12)  BEN
+Ceux qui ont attaqué mon campement !
+13)  BANDIT2
+T'es parano...
+14)  BANDIT1
+Je t'emmerde !
+15)  CARLEY
+T'as parlé à quelqu'un de ton passé ? Ou de ton lien avec cet endroit ?
+16)  LARRY
+Je sais qui tu es. Je sais que tu es un tueur.
+17)  LILLY
+Il n'est pas mort ! Aidez-moi !
+18)  KENNY
+Allez ! On sait qu'il est foutu !
+21)  KENNY
+Une voiture...
+22)  KENNY
+Il y a plein de provisions ici !
+23)  LEE
+Il faut les prendre, pour survivre.
+24)  JOLENE
+Ne t'en fais pas, petite. Tant que les bandits seront occupés avec la ferme laitière, tu ne crains rien.
+25)  LEE
+[to Clementine]Tu as raison. Il ne faut pas les prendre.
+26)  KENNY
+Nous autres, on les prend.
+27)  KENNY
+Tu as sauvé Duck...
+28)  KENNY
+Et tu as tenu tête à Larry.
+29)  LEE
+[Kenny smashed Larrys head]Kenny ! Putain !
+31)  LEE
+Dans les épisodes précédents...
