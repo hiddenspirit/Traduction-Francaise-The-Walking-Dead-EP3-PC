@@ -283,7 +283,7 @@ On devrait rejoindre l'océan en camping-car. {HappyA}Suis-moi sur ce coup.
 112)  KENNY
 [grumpy] Ca t'arrive encore de lui parler ?
 114)  LEE
-Oui...
+C'est vrai...
 115)  KENNY
 J'espère. On n'avait pas le choix.
 116)  KENNY
