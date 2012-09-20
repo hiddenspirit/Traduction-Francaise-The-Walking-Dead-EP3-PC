@@ -277,7 +277,7 @@ On devrait rejoindre l’océan en camping-car. {HappyA}Suis-moi sur ce coup.
 106)  KENNY
 {Body-A}{SadA}C’est une décision difficile, {ThinkingA}{HappyA}mais tu sais qu’il le faut.
 108)  KENNY
-{Body-A}{AngryC}Non, ducon. {AngryD}On m’a tiré dessus. {DisgustA}Enlève...
+{Body-A}{AngryC}Non, ducon. {AngryD}On m’a tiré dessus. {DisgustA}Grouille-toi de...
 109)  KENNY
 [grumpy] {Body-A}{AngryB}Sans déc. {DisgustA}Il y a du souci à se faire. {AngryA}Elle va craquer.
 112)  KENNY
