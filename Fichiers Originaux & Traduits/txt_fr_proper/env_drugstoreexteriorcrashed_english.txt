@@ -131,7 +131,7 @@ Ca va ?
 45)  LEE
 {Body-B}{AngryC}Qu'est-ce que t'as foutu ? {AngryD}T'as dit que tu pouvais le faire !
 46)  KENNY
-[defensive] {Body-A}{DisgustA}On t'a déjà tiré dessus ? {SadB}Désolé.{AngryA} {AngryC}Tu croirais que...
+[defensive] {Body-A}{DisgustA}On t'a déjà tiré dessus ? {SadB}Désolé.{AngryA} {AngryC}Tu crois que...
 47)  LEE
 {Body-B}{SadB}Heureusement que ça aurait pu être pire. {ThinkingA}Tu...
 48)  LEE
@@ -295,7 +295,7 @@ Elle s'en remettra.
 121)  KENNY
 [grumpy] J'imagine.
 122)  KENNY
-J'espère pas.
+J'espère que non.
 123)  LEE
 {Body-B}Il s'en remettra. On a vu bien pire depuis le fils de Hershel.
 302)  LEE
@@ -341,9 +341,9 @@ Pas grand-chose ne le perturbe, mais ça commence à faire beaucoup. La ferme, la 
 299)  LEE
 {Body-B}{SurpriseA}{SadB}Désolé.
 132)  KENNY
-Le fait est que {AngryB}nous[emphasis on we] l'avons fait.
+En fait, c'est {AngryB}nous[emphasis on we] qui l'avons tué.
 298)  KENNY
-Le fait est que {AngryB}nous[emphasis on we] l'avons fait.
+En fait, c'est {AngryB}nous[emphasis on we] qui l'avons tué.
 133)  KENNY
 Je dois atteindre la côte, le sortir de cette folie.
 146)  KENNY
@@ -579,7 +579,7 @@ Interrupteur
 226)  KENNY
 [pickup2] [empathic, final explanation] Donc, le mieux est de ne pas abréger ses souffrances, pigé ?
 231)  LEE
-[pickup2] {Body-B}{NormalC}On peut oublier les militaires.
+[pickup2] {Body-B}{NormalC}Faudra pas compter sur les militaires.
 232)  LEE
 [pickup2] {Body-B}{ThinkingA}Impossible de traverser ce merdier.
 233)  
