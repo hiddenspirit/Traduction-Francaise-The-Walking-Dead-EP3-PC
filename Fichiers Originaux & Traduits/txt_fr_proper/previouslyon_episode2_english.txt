@@ -23,7 +23,7 @@ Personne cherche à t’évincer !
 12)  BEN
 Ceux qui ont attaqué mon campement !
 13)  BANDIT2
-T’es parano...
+T’es parano......
 14)  BANDIT1
 Je t’emmerde !
 15)  CARLEY

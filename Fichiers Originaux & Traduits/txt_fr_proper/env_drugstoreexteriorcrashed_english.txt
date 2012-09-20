@@ -33,9 +33,9 @@ Je le sens pas.
 17)  KENNY
 {ThinkingA}Sans blague.
 18)  KENNY
-{SurprisedA}L’échelle se décroche. {AngryB}J’ignore combien de passages elle va encore supporter.
+{SurprisedA}L’échelle se décroche. {AngryB}J’ignore combien de temps elle va encore tenir.
 19)  LEE
-{SadA}J’ignore combien, nous, on va encore en supporter.
+{SadA}J’ignore combien de temps, nous, on va encore en tenir.
 20)  KENNY
 {AngryC}Merde !
 21)  LEE
