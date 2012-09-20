@@ -5,11 +5,14 @@
 20)  BEATRICE
 
 3)  KENNY
-{sadB} Elle est morte. On n’a plus beaucoup de temps.
+{sadB} Elle est morte.
+On n’a plus beaucoup de temps.
 21)  KENNY
-{sadB} Elle est morte. On n’a plus beaucoup de temps.
+{sadB} Elle est morte.
+On n’a plus beaucoup de temps.
 4)  KENNY
-{fearC}Ils arrivent ! {angryA}Allez !
+{fearC}Putain, ils arrivent !
+{angryA}Allez !
 5)  KENNY
 {disgustA}C’est robuste, mais on a peu de temps.
 6)  KENNY
@@ -27,11 +30,11 @@
 62)  KENNY
 [urgent] {angryA}N’oublie pas sous le comptoir cette fois !
 9)  KENNY
-[urgent] {disgustA}Je m’occupe d’ici, {angryB}puis on se barre !
+[urgent] {disgustA}Je m’occupe d’ici, {angryB}puis cassos !
 58)  KENNY
-[urgent] {disgustA}Je m’occupe d’ici, {angryB}puis on se barre !
+[urgent] {disgustA}Je m’occupe d’ici, {angryB}puis cassos !
 63)  KENNY
-[urgent] {disgustA}Je m’occupe d’ici, {angryB}puis on se barre !
+[urgent] {disgustA}Je m’occupe d’ici, {angryB}puis cassos !
 10)  KENNY
 [urgent] {angryA}Pas le temps de causer !
 11)  KENNY
@@ -39,7 +42,8 @@
 12)  LEE
 [pickup 2] [new read: - Too shoutey - kenny's reaction to his voice does not match that lee has just screamed KENNY.][urgent] {angryC}Kenny!
 13)  KENNY
-[urgent] {angryA}Quoi ? [like, what do you want?] {angryC}On s’active !
+[urgent] {angryA}Quoi ? [like, what do you want?]
+{angryC}On s’active !
 14)  KENNY
 [urgent] {angryC}Active-toi !
 15)  BEATRICE
@@ -63,7 +67,8 @@
 25)  LEE
 [a bunch of zombies fallign on you] {fearD}
 26)  LEE
-[trapped]{fearC} Kenny ! Aide-moi !
+[trapped]{fearC} Kenny !
+Aide-moi !
 27)  LEE
 [grabbed and bitten by zombies]
 28)  LEE
@@ -97,7 +102,8 @@
 41)  KENNY
 {thinkingA}Partons.
 42)  KENNY
-{angryB}Ils sont partout. Tu t’es débrouillé, non ?
+{angryB}Ils sont partout.
+Tu t’es débrouillé, non ?
 43)  LEE
 {angryC}Qu’est-ce qui t’a pris ?
 44)  

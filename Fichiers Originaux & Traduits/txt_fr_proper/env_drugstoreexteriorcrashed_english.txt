@@ -9,9 +9,11 @@ Je le sens pas.
 5)  LEE
 [cautiously optimistic]{Body-B} {HappyA}Ça se passera bien, finalement.
 6)  LEE
-[doubtful] {Body-B}{HappyA}Peut-être. {ThinkingA}Ils ont tendance à nous choper par surprise.
+[doubtful] {Body-B}{HappyA}Peut-être.
+{ThinkingA}Ils ont tendance à nous choper par surprise.
 7)  LEE
-[mildly irritated] {Body-B}{AngryA}Je le sens pas. {ThinkingA}Reste vigilent.
+[mildly irritated] {Body-B}{AngryA}Je le sens pas.
+{ThinkingA}Reste vigilent.
 8)  KENNY
 {Body-A}{ThinkingA}On le mérite bien, après la dernière fois.
 9)  KENNY
@@ -21,11 +23,14 @@ Je le sens pas.
 11)  KENNY
 {Body-A}{ThinkingA}{NormalC}Finissons-en.
 12)  KENNY
-{Body-A}{ThinkingA}Comme la dernière fois : {DisgustA}par-dessus le camion, {ThinkingA}dans la pharmacie, et on ramasse {NormalC}ce qui reste comme provisions.
+{Body-A}{ThinkingA}Comme la dernière fois :
+{DisgustA}par-dessus le camion, {ThinkingA}dans la pharmacie,
+et on ramasse {NormalC}ce qui reste comme provisions.
 13)  LEE
 {Body-B}{ThinkingA}Il reste plus grand-chose.
 14)  KENNY
-{ThinkingA}On n’a que ça. {HappyA}C’est mieux que rien.
+{ThinkingA}On n’a que ça.
+{HappyA}C’est mieux que rien.
 15)  KENNY
 [Grunts with exertion / pain as he climbs] {Body-A}{AngryB}
 16)  LEE
@@ -33,9 +38,11 @@ Je le sens pas.
 17)  KENNY
 {ThinkingA}Sans blague.
 18)  KENNY
-{SurprisedA}L’échelle se décroche. {AngryB}J’ignore combien de temps elle va encore tenir.
+{SurprisedA}L’échelle se décroche.
+{AngryB}J’ignore combien de temps elle va encore tenir.
 19)  LEE
-{SadA}J’ignore combien de temps, nous, on va encore en tenir.
+{SadA}J’ignore combien de temps,
+nous, on va encore en tenir.
 20)  KENNY
 {AngryC}Merde !
 21)  LEE
@@ -51,17 +58,23 @@ Je le sens pas.
 283)  LEE
 {Body-B}{ThinkingA}Tu peux pas m’atteindre ?
 25)  KENNY
-{Body-A}{HappyB}{ThinkingA}Soit tu devras vachement grandir, {AngryA}soit mes bras devront vachement s’allonger.
+{Body-A}{HappyB}{ThinkingA}Soit tu devras vachement grandir,
+{AngryA}soit mes bras devront vachement s’allonger.
 271)  KENNY
-{Body-A}{HappyB}{ThinkingA}Soit tu devras vachement grandir, {AngryA}soit mes bras devront vachement s’allonger.
+{Body-A}{HappyB}{ThinkingA}Soit tu devras vachement grandir,
+{AngryA}soit mes bras devront vachement s’allonger.
 281)  KENNY
-{Body-A}{HappyB}{ThinkingA}Soit tu devras vachement grandir, {AngryA}soit mes bras devront vachement s’allonger.
+{Body-A}{HappyB}{ThinkingA}Soit tu devras vachement grandir,
+{AngryA}soit mes bras devront vachement s’allonger.
 26)  LEE
-{NormalD}D’accord. {ThinkingA}Je continue à chercher.
+{NormalD}D’accord.
+{ThinkingA}Je continue à chercher.
 273)  LEE
-{NormalD}D’accord. {ThinkingA}Je continue à chercher.
+{NormalD}D’accord.
+{ThinkingA}Je continue à chercher.
 282)  LEE
-{NormalD}D’accord. {ThinkingA}Je continue à chercher.
+{NormalD}D’accord.
+{ThinkingA}Je continue à chercher.
 27)  LEE
 {ThinkingB}Je vais trouver un autre moyen.
 241)  LEE
@@ -115,7 +128,8 @@ Je le sens pas.
 37)  LEE
 {Body-B}{ThinkingA}T’es sûr{SadB} de pouvoir le faire ?
 38)  KENNY
-{Body-A}{HappyA}{HappyB}C’est bon. {ThinkingA}Tends la main.
+{Body-A}{HappyA}{HappyB}C’est bon.
+{ThinkingA}Tends la main.
 39)  LEE
 {Body-B}{SurpriseB}Merde ![gets cut off as he hits the windshield]
 40)  KENNY
@@ -127,11 +141,15 @@ Qu'est-ce que t'as foutu ?
 43)  
 Ca va ?
 44)  LEE
-[wincing] {Body-B}{DisgustA}Bien joué. {AngryC}Je viendrai avec Ben la prochaine fois ! {ThinkingB}Aide-moi...
+[wincing] {Body-B}{DisgustA}Bien joué.
+{AngryC}Je viendrai avec Ben la prochaine fois !
+{ThinkingB}Aide-moi...
 45)  LEE
-{Body-B}{AngryC}Qu’est-ce que t’as foutu ? {AngryD}T’as dit que tu pouvais le faire !
+{Body-B}{AngryC}Qu’est-ce que t’as foutu ?
+{AngryD}T’as dit que tu pouvais le faire !
 46)  KENNY
-[defensive] {Body-A}{DisgustA}On t’a déjà tiré dessus ? {SadB}Désolé.{AngryA} {AngryC}Tu crois que...
+[defensive] {Body-A}{DisgustA}On t’a déjà tiré dessus ?
+{SadB}Désolé.{AngryA} {AngryC}Tu crois que...
 47)  LEE
 {Body-B}{SadB}Heureusement que ça aurait pu être pire. {ThinkingA}Tu...
 48)  LEE
@@ -139,17 +157,21 @@ Ca va ?
 107)  LEE
 {Body-B}{SurpriseA}{DisgustA}Ça va ?
 49)  KENNY
-[wincing] {Body-A}{DisgustA}Ça va. {AngryB}{SadB}Désolé, {ThinkingA}je croyais que c’était mieux guéri.
+[wincing] {Body-A}{DisgustA}Ça va.
+{AngryB}{SadB}Désolé, {ThinkingA}je croyais que c’était mieux guéri.
 50)  LEE
-[curt] {AngryB}Ça va, {DisgustA}oublie. {ThinkingB}Faisons...
+[curt] {AngryB}Ça va, {DisgustA}oublie.
+{ThinkingB}Faisons...
 51)  LEE
 [wincing]{Body-B}{AngryC}
 52)  KENNY
 Désolé, {SadB}je...
 53)  KENNY
-{Body-A}{AngryC}Putain ! {SadB}Ça va ?
+{Body-A}{AngryC}Putain !
+{SadB}Ça va ?
 54)  KENNY
-{Body-A}{SurprisedA}{FearC}C’est quoi, ça ? {AngryB}Un rôdeur ?
+{Body-A}{SurprisedA}{FearC}C’est quoi, ça ?
+{AngryB}Un rôdeur ?
 55)  LEE
 {Body-B}{SurpriseB}Un rôdeur, {FearC}ça hurle ?
 56)  KENNY
@@ -167,11 +189,13 @@ J'arrive.
 62)  LEE
 {ThinkingA}T’aurais peut-être pas dû venir.
 63)  KENNY
-{Body-A}{DisgustA}J’ai pris une balle dans les tripes, {ThinkingA}tu crois quoi ?
+{Body-A}{DisgustA}J’ai pris une balle dans les tripes,
+{ThinkingA}tu crois quoi ?
 64)  KENNY
 {NormalC}Ça ira.
 65)  KENNY
-{Body-A}{AngryA}Si on avait taillé la route, {DisgustA}on n’en serait pas là.
+{Body-A}{AngryA}Si on avait taillé la route,
+{DisgustA}on n’en serait pas là.
 66)  KENNY
 {Body-A}{ThinkingA}L’échelle est là.
 67)  LEE
@@ -199,9 +223,11 @@ Elle ira bien.
 76)  
 Pas terrible.
 77)  KENNY
-{Body-A}{ThinkingA}La petite est toujours fâchée contre toi pour l’histoire de la voiture ?
+{Body-A}{ThinkingA}La petite est toujours fâchée contre toi
+pour l’histoire de la voiture ?
 78)  KENNY
-{Body-A}{ThinkingA}La petite est toujours fâchée contre moi pour l’histoire de la voiture ?
+{Body-A}{ThinkingA}La petite est toujours fâchée contre moi
+pour l’histoire de la voiture ?
 79)  
 Je crois qu'elle comprend.
 110)  LEE
@@ -251,43 +277,63 @@ On devrait rester.
 93)  
 On pourrait se séparer.
 94)  LEE
-{Body-B}{ThinkingA}On devrait partir. {ThinkingB}Le motel n’est pas sûr.
+{Body-B}{ThinkingA}On devrait partir.
+{ThinkingB}Le motel n’est pas sûr.
 95)  LEE
-{Body-B}{ThinkingA}On devrait rester. {HappyA}On s’en sort bien jusqu’ici.
+{Body-B}{ThinkingA}On devrait rester.
+{HappyA}On s’en sort bien jusqu’ici.
 96)  LEE
 {Body-B}{ThinkingA}On pourrait se séparer.
 97)  KENNY
-[grumpy] {Body-A}{AngryA}Alors, {AngryB}dis-le plus fort, putain. {DisgustA}Lilly veut rien entendre.
+[grumpy] {Body-A}{AngryA}Alors, {AngryB}dis-le plus fort, putain.
+{DisgustA}Lilly veut rien entendre.
 98)  KENNY
-{Body-A}{AngryA}Carrément. {ThinkingA}On met les gaz jusqu’à la mer. {DisgustA}Et si Lilly est contre, {HappyA}{ThinkingA}tant pis.
+{Body-A}{AngryA}Carrément. {ThinkingA}On met les gaz jusqu’à la mer.
+{DisgustA}Et si Lilly est contre, {HappyA}{ThinkingA}tant pis.
 99)  KENNY
-{DisgustA}Je le savais. {AngryB}Toi et Lilly, vous allez vous enraciner dans ce trou à merde.
+{DisgustA}Je le savais. {AngryB}Toi et Lilly,
+vous allez vous enraciner dans ce trou à merde.
 100)  KENNY
-{Body-A}{DisgustA}Tu sais que c’est une connerie. {AngryA}Les gens dans les bois nous en font baver{SadA}... {ThinkingA}c’est qu’une question de temps.
+{Body-A}{DisgustA}Tu sais que c’est une connerie.
+{AngryA}Les gens dans les bois nous en font baver{SadA}.
+{ThinkingA}C’est qu’une question de temps.
 101)  KENNY
-On devrait rejoindre l’océan en camping-car. {HappyA}Suis-moi sur ce coup.
+On devrait rejoindre l’océan en camping-car.
+{HappyA}Suis-moi sur ce coup.
 102)  KENNY
-{Body-A}{DisgustA}Alors, tu restes avec Lilly ? {AngryA}Et Doug va rester parce que tu l’a sauvé {AngryB}une fois. Et moi, j’ai {ThinkingA}qui ? {SurprisedA}Ben, {AngryB}le neuneu ?
+{Body-A}{DisgustA}Alors, tu restes avec Lilly ?
+{AngryA}Et Doug va rester parce que tu l’a sauvé {AngryB}une fois.
+Et moi, j’ai {ThinkingA}qui ? {SurprisedA}Ben, {AngryB}le neuneu ?
 103)  KENNY
-{Body-A}{DisgustA}Alors, tu restes avec Lilly ? {AngryA}Et Carley va rester parce que tu l’a sauvée {AngryB}une fois. Et moi, j’ai {ThinkingA}qui ? {SurprisedA}Ben, {AngryB}le neuneu ?
+{Body-A}{DisgustA}Alors, tu restes avec Lilly ?
+{AngryA}Et Carley va rester parce que tu l’a sauvée {AngryB}une fois.
+Et moi, j’ai {ThinkingA}qui ? {SurprisedA}Ben, {AngryB}le neuneu ?
 104)  KENNY
-{Body-A}{SadB}Se séparer ? {SadA}Si c’était pas suicidaire, {ThinkingA}je serais parti depuis longtemps.
+{Body-A}{SadB}Se séparer ? {SadA}Si c’était pas suicidaire,
+{ThinkingA}je serais parti depuis longtemps.
 105)  KENNY
-[grumbly] {Body-A}{AngryA}{AngryB}Je prends ça pour un oui. {DisgustA}{ThinkingA}Je serais sur mon bateau en ce moment même {AngryB}si se séparer n’était pas suicidaire.
+[grumbly] {Body-A}{AngryA}{AngryB}Je prends ça pour un oui.
+{DisgustA}{ThinkingA}Je serais sur mon bateau en ce moment même
+{AngryB}si se séparer n’était pas suicidaire.
 106)  KENNY
-{Body-A}{SadA}C’est une décision difficile, {ThinkingA}{HappyA}mais tu sais qu’il le faut.
+{Body-A}{SadA}C’est une décision difficile,
+{ThinkingA}{HappyA}mais tu sais qu’il le faut.
 108)  KENNY
-{Body-A}{AngryC}Non, ducon. {AngryD}On m’a tiré dessus. {DisgustA}Grouille-toi de...
+{Body-A}{AngryC}Non, ducon. {AngryD}On m’a tiré dessus.
+{DisgustA}Grouille-toi de...
 109)  KENNY
-[grumpy] {Body-A}{AngryB}Sans déc. {DisgustA}Il y a du souci à se faire. {AngryA}Elle va craquer.
+[grumpy] {Body-A}{AngryB}Sans déc. {DisgustA}Il y a du souci à se faire.
+{AngryA}Elle va craquer.
 112)  KENNY
 [grumpy] Ça t’arrive encore de lui parler ?
 114)  LEE
 C’est vrai...
 115)  KENNY
-J’espère. On n’avait pas le choix.
+J’espère.
+On n’avait pas le choix.
 116)  KENNY
-Je sais ce que tu en penses. Ce qui est fait est fait.
+Je sais ce que tu en penses.
+Ce qui est fait est fait.
 119)  KENNY
 Espérer, ça vaut que dalle.
 120)  KENNY
@@ -297,21 +343,31 @@ Elle s’en remettra.
 122)  KENNY
 J’espère que non.
 123)  LEE
-{Body-B}Il s’en remettra. On a vu bien pire depuis le fils de Hershel.
+{Body-B}Il s’en remettra.
+On a vu bien pire depuis le fils de Hershel.
 302)  LEE
-{Body-B}Il s’en remettra. On a vu bien pire depuis le fils de Hershel.
+{Body-B}Il s’en remettra.
+On a vu bien pire depuis le fils de Hershel.
 124)  LEE
-{Body-B}{ThinkingA}Je croyais {HappyA}que ça glissait sur Duck comme l’eau sur des plumes.
+{Body-B}{ThinkingA}Je croyais {HappyA}que ça glissait sur Duck
+comme l’eau sur des plumes.
 307)  LEE
-{Body-B}{ThinkingA}Je croyais {HappyA}que ça glissait sur Duck comme l’eau sur des plumes.
+{Body-B}{ThinkingA}Je croyais {HappyA}que ça glissait sur Duck
+comme l’eau sur des plumes.
 125)  KENNY
-[grumpy, sarcastic] {Body-A}{AngryB}Il voulait savoir si le fils de Hershel allait bien. {SadA}Il doit savoir que non. [catches a glance from Lee]{AngryC}T’inquiète, t’es un héros à ses yeux.
+[grumpy, sarcastic] {Body-A}{AngryB}Il voulait savoir si le fils de Hershel allait bien.
+{SadA}Il doit savoir que non.
+[catches a glance from Lee]{AngryC}T’inquiète, t’es un héros à ses yeux.
 296)  KENNY
-[grumpy, sarcastic] {Body-A}{AngryB}Il voulait savoir si le fils de Hershel allait bien. {SadA}Il doit savoir que non. [catches a glance from Lee]{AngryC}T’inquiète, t’es un héros à ses yeux.
+[grumpy, sarcastic] {Body-A}{AngryB}Il voulait savoir si le fils de Hershel allait bien.
+{SadA}Il doit savoir que non.
+[catches a glance from Lee]{AngryC}T’inquiète, t’es un héros à ses yeux.
 126)  KENNY
-{Body-A}{ThinkingA}Il s’est {SadA}réveillé la nuit,{SadB} en hurlant. {FearB}Il pense avoir tué le fils de Hershel.
+{Body-A}{ThinkingA}Il s’est {SadA}réveillé la nuit,{SadB} en hurlant.
+{FearB}Il pense avoir tué le fils de Hershel.
 300)  KENNY
-{Body-A}{ThinkingA}Il s’est {SadA}réveillé la nuit,{SadB} en hurlant. {FearB}Il pense avoir tué le fils de Hershel.
+{Body-A}{ThinkingA}Il s’est {SadA}réveillé la nuit,{SadB} en hurlant.
+{FearB}Il pense avoir tué le fils de Hershel.
 127)  LEE
 {Body-B}{SadB}Ça a été terrifiant pour lui, {SadA}Shawn qui meurt et tout.
 293)  LEE
@@ -321,25 +377,41 @@ J’espère que non.
 292)  KENNY
 {Body-A}{SadB}Je crains qu’il {FearB}se sente toujours responsable. [with regret]
 129)  KENNY
-[grumpy] Tu déconnes de dire ça. Je parle de mon fils, là.
+[grumpy] Tu déconnes de dire ça.
+Je parle de mon fils, là.
 303)  KENNY
-[grumpy] Tu déconnes de dire ça. Je parle de mon fils, là.
+[grumpy] Tu déconnes de dire ça.
+Je parle de mon fils, là.
 130)  KENNY
-Pas grand-chose ne le perturbe, mais ça commence à faire beaucoup. La ferme, la laiterie...
+Pas grand-chose ne le perturbe,
+mais ça commence à faire beaucoup.
+La ferme, la laiterie...
 147)  KENNY
-Pas grand-chose ne le perturbe, mais ça commence à faire beaucoup. La ferme, la laiterie...
+Pas grand-chose ne le perturbe,
+mais ça commence à faire beaucoup.
+La ferme, la laiterie...
 148)  KENNY
-Pas grand-chose ne le perturbe, mais ça commence à faire beaucoup. La ferme, la laiterie...
+Pas grand-chose ne le perturbe,
+mais ça commence à faire beaucoup.
+La ferme, la laiterie...
 304)  KENNY
-Pas grand-chose ne le perturbe, mais ça commence à faire beaucoup. La ferme, la laiterie...
+Pas grand-chose ne le perturbe,
+mais ça commence à faire beaucoup.
+La ferme, la laiterie...
 309)  KENNY
-Pas grand-chose ne le perturbe, mais ça commence à faire beaucoup. La ferme, la laiterie...
+Pas grand-chose ne le perturbe,
+mais ça commence à faire beaucoup.
+La ferme, la laiterie...
 313)  KENNY
-Pas grand-chose ne le perturbe, mais ça commence à faire beaucoup. La ferme, la laiterie...
+Pas grand-chose ne le perturbe,
+mais ça commence à faire beaucoup.
+La ferme, la laiterie...
 131)  LEE
-{Body-B}{SurpriseA}{SadB}Désolé.
+{Body-B}{SurpriseA}Bon sang...
+{SadB}Désolé.
 299)  LEE
-{Body-B}{SurpriseA}{SadB}Désolé.
+{Body-B}{SurpriseA}Bon sang...
+{SadB}Désolé.
 132)  KENNY
 En fait, c’est {AngryB}nous[emphasis on we] qui l’avons tué.
 298)  KENNY
@@ -367,9 +439,10 @@ Je dois atteindre la côte, le sortir de cette folie.
 137)  LEE
 {Body-B}{ThinkingA}Elle ira bien.
 138)  LEE
-{Body-B}{ThinkingA}Pas terrible. {SadB}Je m’inquiète.
+{Body-B}{ThinkingA}Pas terrible.
+{SadB}Je m’inquiète.
 139)  LEE
-A ton avis ?
+À ton avis ?
 140)  KENNY
 Tu laisses mijoter, hein.
 141)  KENNY
@@ -379,13 +452,17 @@ Tu laisses mijoter, hein.
 322)  KENNY
 [grumpy] {AngryB}Évidemment.
 142)  LEE
-{Body-B}{SurpriseA}Ah bon ? {ThinkingA}Ça le perturbe ?
+{Body-B}{SurpriseA}Ah bon ?
+{ThinkingA}Ça le perturbe ?
 143)  LEE
-{Body-B}{SurpriseA}Ah bon ? {ThinkingA}Ça le perturbe ?
+{Body-B}{SurpriseA}Ah bon ?
+{ThinkingA}Ça le perturbe ?
 316)  LEE
-{Body-B}{SurpriseA}Ah bon ? {ThinkingA}Ça le perturbe ?
+{Body-B}{SurpriseA}Ah bon ?
+{ThinkingA}Ça le perturbe ?
 318)  LEE
-{Body-B}{SurpriseA}Ah bon ? {ThinkingA}Ça le perturbe ?
+{Body-B}{SurpriseA}Ah bon ?
+{ThinkingA}Ça le perturbe ?
 144)  LEE
 {Body-B}{AngryA}C’est pas ça.
 297)  LEE
@@ -399,11 +476,16 @@ Tu laisses mijoter, hein.
 311)  KENNY
 [grumpy] T’en fais pas.
 151)  KENNY
-{Body-A}{SadA}Pas terrible du tout. {SadB}J’espère qu’elle ne va pas craquer. {ThinkingA}Je nous ai sauvés dans ce garde-manger, {SadA}tu sais ?
+{Body-A}{SadA}Pas terrible du tout.
+{SadB}J’espère qu’elle ne va pas craquer.
+{ThinkingA}Je nous ai sauvés dans ce garde-manger, {SadA}tu sais ?
 152)  KENNY
-{Body-A}{ThinkingA}Si tu le dis. On dirait qu’elle ne se soucie plus de rien {AngryA}à part toi. {SadA}Enfin, {NormalC}toi et Clem.
+{Body-A}{ThinkingA}Si tu le dis.
+On dirait qu’elle se soucie plus de rien {AngryA}à part toi.
+{SadA}Enfin, {NormalC}toi et Clem.
 153)  KENNY
-{Body-A}{ThinkingA}Tu crois ? {SadA}J’en sais rien. {ThinkingA}J’y ai pensé, {SurprisedA}{SadA}et je sais pas.
+{Body-A}{ThinkingA}Tu crois ? {SadA}J’en sais rien.
+{ThinkingA}J’y ai pensé, {SurprisedA}{SadA}et je sais pas.
 154)  KENNY
 [grumpy] {Body-A}{SadB}J’ai fait ce qui s’imposait, {AngryA}et tu le sais.
 155)  KENNY
@@ -411,11 +493,16 @@ Tu laisses mijoter, hein.
 156)  LEE
 {Body-B}{HappyA}T’as encore mal ?
 157)  LEE
-{Body-B}{HappyA}Tu crois qu’il reste des trucs ? {ThinkingA}Y a plus grand-chose.
+{Body-B}{HappyA}Tu crois qu’il reste des trucs ?
+{ThinkingA}Y a plus grand-chose.
 158)  KENNY
-{Body-A}{ThinkingA}On verra. {NormalC}Les provisions de la voiture vont pas durer si longtemps.
+{Body-A}{ThinkingA}On verra.
+{NormalC}Les provisions de la voiture
+ne vont pas durer si longtemps.
 159)  KENNY
-{Body-A}{HappyA}T’as raison. {ThinkingA}On a eu du bol de trouver cette voiture, {DisgustA}malgré tes réticences.
+{Body-A}{HappyA}T’as raison.
+{ThinkingA}On a eu du bol de trouver cette voiture,
+{DisgustA}malgré tes réticences.
 160)  
 Peu importe. Faut bouger.
 161)  
@@ -433,17 +520,21 @@ Tu gâches des balles !
 168)  KENNY
 {Body-A}{ThinkingA}{FearC}Impossible d’aller vers elle.
 169)  LEE
-{Body-B}{SadB}C’est une fille. {FearC}Il faut l’aider.
+{Body-B}{SadB}C’est une fille.
+{FearC}Il faut l’aider.
 170)  KENNY
-[urgent but hiding] {AngryC}Réfléchis ! {FearB}On craint ceux qu’on ne voit pas. {SurprisedA}En vie, elle va les attirer !
+[urgent but hiding] {AngryC}Réfléchis ! {FearB}On craint ceux qu’on ne voit pas.
+{SurprisedA}En vie, elle va les attirer !
 171)  LEE
 [urgent but hiding] {SurpriseB}Comment ça ?
 172)  LEE
 [urgent but hiding] {SurpriseC}Ken...[disbelief]
 173)  LEE
-[urgent but hiding] {Body-B}{SurpriseB}C’est une fille ! {FearD}Elle va nous faire tuer !
+[urgent but hiding] {Body-B}{SurpriseB}C’est une fille !
+{FearD}Elle va nous faire tuer !
 174)  KENNY
-[urgent but hiding] {ThinkingA}{DisgustA}On la laisse en vie pour les attirer {FearB}et nous faire gagner du temps.
+[urgent but hiding] {ThinkingA}{DisgustA}On la laisse en vie pour les attirer
+{FearB}et nous faire gagner du temps.
 175)  KENNY
 [urgent but hiding]  {Body-A}{FearC}Sans déc...{DisgustA}
 176)  KENNY
@@ -455,25 +546,30 @@ Tu gâches des balles !
 179)  BEATRICE
 [SHRIEK in pain]
 180)  KENNY
-On reviendra peut-être pas ici. Il nous faut autant de temps que possible !
+On reviendra peut-être pas ici.
+Il nous faut autant de temps que possible !
 181)  LEE
-[urgent, hushed] {Body-B}{FearC}Peu importe. {AngryB}Faut bouger. {DisgustB}Laissons-la.
+[urgent, hushed] {Body-B}{FearC}Peu importe. {AngryB}Faut bouger.
+{DisgustB}Laissons-la.
 182)  KENNY
 [urgent, hushed] {Body-A}{AngryB}Réfléchissons...
 183)  KENNY
-[hushed, urgent] Laisse-la ! Allons-y !
+[hushed, urgent] Laisse-la !
+Allons-y !
 184)  KENNY
 [hushed, urgent] Allez !
 185)  KENNY
 {Body-A}{AngryB}Allez.
 186)  KENNY
-[hushed angry] {AngryD}T’es fier de toi ? {DisgustA}Bougeons-nous.
+[hushed angry] {AngryD}T’es fier de toi ?
+{DisgustA}Bougeons-nous.
 187)  KENNY
 [hushed, angry]  {Body-A}{AngryC}Bordel.
 188)  KENNY
 [hushed] {Body-A}{AngryB}Bien, {ThinkingA} {DisgustA}elle va les occuper.
 189)  KENNY
-Arrête ! Ils vont nous voir !
+Arrête !
+Ils vont nous voir !
 190)  KENNY
 Arrête, putain !
 191)  BEATRICE
@@ -487,7 +583,9 @@ Arrête, putain !
 195)  BEATRICE
 [sad, "help me" scream]A l’aide !
 196)  KENNY
-[grumpy] {AngryA}Sur le fait de se barrer de Macon. {DisgustA}Je parie que t’es contre, {AngryA}vu que je pousse tout le monde à partir.
+[grumpy] {AngryA}Sur le fait de se barrer de Macon.
+{DisgustA}Je parie que t’es contre,
+{AngryA}vu que je pousse tout le monde à partir.
 197)  LEE
 {Body-B}{ThinkingA}Sur quoi ?
 198)  KENNY
@@ -499,9 +597,11 @@ Arrête, putain !
 317)  KENNY
 [pickup 2] [new read: too fast, could be more thoughtful.]{Body-A}{SadB}Duck a parlé du type à la ferme de Hershel, cette nuit.
 200)  KENNY
-Putain ! Tu tires dans le vent !
+Putain !
+Tu tires dans le vent !
 201)  KENNY
-Arrête ! Si tu tires, vise bien, au moins !
+Arrête !
+Si tu tires, vise bien, au moins !
 202)  LEE
 [pickup2] {Body-B}{NormalB}{ThinkingA} Ça marche encore, on dirait.
 203)  LEE
@@ -565,9 +665,11 @@ Treuil
 219)  
 Interrupteur
 220)  KENNY
-[pickup2] [hushed urgent]Ça suffit ! Tu aggraves les choses !
+[pickup2] [hushed urgent]Ça suffit !
+Tu aggraves les choses !
 221)  KENNY
-[pickup2] [hushed urgent]Continue comme ça et il faudra bouger d’ici, imbécile !
+[pickup2] [hushed urgent]Continue comme ça
+et il faudra bouger d’ici, imbécile !
 222)  KENNY
 [pickup2][working over a sore part of your body, your bullet wound]Putain...
 223)  KENNY
@@ -577,7 +679,7 @@ Interrupteur
 225)  KENNY
 [pickup2] [empathic, final explanation] On peut pas la sauver.
 226)  KENNY
-[pickup2] [empathic, final explanation] Donc, le mieux est de ne pas abréger ses souffrances, pigé ?
+[pickup2] [empathic, final explanation] Le mieux est de ne pas abréger ses souffrances, pigé ?
 231)  LEE
 [pickup2] {Body-B}{NormalC}Faudra pas compter sur les militaires.
 232)  LEE
