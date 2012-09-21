@@ -42,7 +42,7 @@ et on ramasse {NormalC}ce qui reste comme provisions.
 {AngryB}J’ignore combien de temps elle va encore tenir.
 19)  LEE
 {SadA}J’ignore combien de temps,
-nous, on va encore en tenir.
+nous, on va encore tenir.
 20)  KENNY
 {AngryC}Merde !
 21)  LEE
