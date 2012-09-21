@@ -197,7 +197,7 @@ J'arrive.
 {Body-A}{AngryA}Si on avait taillé la route,
 {DisgustA}on n’en serait pas là.
 66)  KENNY
-{Body-A}{ThinkingA}L’échelle est là.
+{Body-A}{ThinkingA}L’échelle est juste là.
 67)  LEE
 {Body-B}{NormalC}J’arrive.
 68)  LEE
@@ -332,7 +332,7 @@ C’est vrai...
 J’espère.
 On n’avait pas le choix.
 116)  KENNY
-Je sais ce que tu en penses.
+Je connais le tien.
 Ce qui est fait est fait.
 119)  KENNY
 Espérer, ça vaut que dalle.
@@ -383,39 +383,37 @@ Je parle de mon fils, là.
 [grumpy] Tu déconnes de dire ça.
 Je parle de mon fils, là.
 130)  KENNY
-Pas grand-chose ne le perturbe,
+Peu de choses le perturbe,
 mais ça commence à faire beaucoup.
 La ferme, la laiterie...
 147)  KENNY
-Pas grand-chose ne le perturbe,
+Peu de choses le perturbe,
 mais ça commence à faire beaucoup.
 La ferme, la laiterie...
 148)  KENNY
-Pas grand-chose ne le perturbe,
+Peu de choses le perturbe,
 mais ça commence à faire beaucoup.
 La ferme, la laiterie...
 304)  KENNY
-Pas grand-chose ne le perturbe,
+Peu de choses le perturbe,
 mais ça commence à faire beaucoup.
 La ferme, la laiterie...
 309)  KENNY
-Pas grand-chose ne le perturbe,
+Peu de choses le perturbe,
 mais ça commence à faire beaucoup.
 La ferme, la laiterie...
 313)  KENNY
-Pas grand-chose ne le perturbe,
+Peu de choses le perturbe,
 mais ça commence à faire beaucoup.
 La ferme, la laiterie...
 131)  LEE
-{Body-B}{SurpriseA}Bon sang...
-{SadB}Désolé.
+{Body-B}{SurpriseA}Bon sang... {SadB}désolé.
 299)  LEE
-{Body-B}{SurpriseA}Bon sang...
-{SadB}Désolé.
+{Body-B}{SurpriseA}Bon sang... {SadB}désolé.
 132)  KENNY
-En fait, c’est {AngryB}nous[emphasis on we] qui l’avons tué.
+En fait, c’est {AngryB}nous[emphasis on we], les fautifs.
 298)  KENNY
-En fait, c’est {AngryB}nous[emphasis on we] qui l’avons tué.
+En fait, c’est {AngryB}nous[emphasis on we], les fautifs.
 133)  KENNY
 Je dois atteindre la côte, le sortir de cette folie.
 146)  KENNY
@@ -497,8 +495,7 @@ On dirait qu’elle se soucie plus de rien {AngryA}à part toi.
 {ThinkingA}Y a plus grand-chose.
 158)  KENNY
 {Body-A}{ThinkingA}On verra.
-{NormalC}Les provisions de la voiture
-ne vont pas durer si longtemps.
+{NormalC}Les provisions de la voiture ne vont pas durer.
 159)  KENNY
 {Body-A}{HappyA}T’as raison.
 {ThinkingA}On a eu du bol de trouver cette voiture,
@@ -581,7 +578,7 @@ Arrête, putain !
 194)  BEATRICE
 [bitten scream]
 195)  BEATRICE
-[sad, "help me" scream]A l’aide !
+[sad, "help me" scream]
 196)  KENNY
 [grumpy] {AngryA}Sur le fait de se barrer de Macon.
 {DisgustA}Je parie que t’es contre,
