@@ -2,11 +2,11 @@
 Ouvrez !
 On a un blessé !
 2)  LILLY
-Tu croyais qu’amener d’autres bouches à nourrir
-était une bonne idée ?
+Pourquoi tu as cru bon
+d’amener d’autres bouches à nourrir ?
 30)  LILLY
-Tu croyais qu’amener d’autres bouches à nourrir
-était une bonne idée ?
+Pourquoi tu as cru bon
+d’amener d’autres bouches à nourrir ?
 3)  KENNY
 Tu t’es montré bienveillant envers ma famille.
 4)  KENNY
@@ -28,7 +28,7 @@ Personne cherche à t’évincer !
 12)  BEN
 Ceux qui ont attaqué mon campement !
 13)  BANDIT2
-Putain, t’es parano...
+T’es parano......
 14)  BANDIT1
 Je t’emmerde !
 15)  CARLEY
