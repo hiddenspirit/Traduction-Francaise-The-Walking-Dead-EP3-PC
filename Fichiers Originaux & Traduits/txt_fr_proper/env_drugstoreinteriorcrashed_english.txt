@@ -67,8 +67,7 @@ On n’a plus beaucoup de temps.
 25)  LEE
 [a bunch of zombies fallign on you] {fearD}
 26)  LEE
-[trapped]{fearC} Kenny !
-Aide-moi !
+[trapped]{fearC} Kenny ! Aide-moi !
 27)  LEE
 [grabbed and bitten by zombies]
 28)  LEE
@@ -84,7 +83,7 @@ Aide-moi !
 32)  KENNY
 [killing zombies] {angryC}
 33)  KENNY
-[killing zombies] {angryC}Je m’occupe d’eux.
+[killing zombies] {angryC}Je m’en charge.
 34)  KENNY
 [killing zombies]  {angryC}
 35)  LEE

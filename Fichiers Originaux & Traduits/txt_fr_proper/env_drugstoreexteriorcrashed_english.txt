@@ -13,7 +13,7 @@ Je le sens pas.
 {ThinkingA}Ils ont tendance à nous choper par surprise.
 7)  LEE
 [mildly irritated] {Body-B}{AngryA}Je le sens pas.
-{ThinkingA}Reste vigilent.
+{ThinkingA}Reste vigilant.
 8)  KENNY
 {Body-A}{ThinkingA}On le mérite bien, après la dernière fois.
 9)  KENNY
@@ -153,9 +153,9 @@ Ca va ?
 47)  LEE
 {Body-B}{SadB}Heureusement que ça aurait pu être pire. {ThinkingA}Tu...
 48)  LEE
-{Body-B}{SurpriseA}{DisgustA}Ça va ?
+{Body-B}{SurpriseA}{DisgustA}Putain, ça va ?
 107)  LEE
-{Body-B}{SurpriseA}{DisgustA}Ça va ?
+{Body-B}{SurpriseA}{DisgustA}Putain, ça va ?
 49)  KENNY
 [wincing] {Body-A}{DisgustA}Ça va.
 {AngryB}{SadB}Désolé, {ThinkingA}je croyais que c’était mieux guéri.
@@ -167,8 +167,7 @@ Ca va ?
 52)  KENNY
 Désolé, {SadB}je...
 53)  KENNY
-{Body-A}{AngryC}Putain !
-{SadB}Ça va ?
+{Body-A}{AngryC}Putain ! {SadB}Ça va ?
 54)  KENNY
 {Body-A}{SurprisedA}{FearC}C’est quoi, ça ?
 {AngryB}Un rôdeur ?
@@ -302,11 +301,11 @@ On devrait rejoindre l’océan en camping-car.
 {HappyA}Suis-moi sur ce coup.
 102)  KENNY
 {Body-A}{DisgustA}Alors, tu restes avec Lilly ?
-{AngryA}Et Doug va rester parce que tu l’a sauvé {AngryB}une fois.
+{AngryA}Et Doug va rester parce que tu l’as sauvé {AngryB}une fois.
 Et moi, j’ai {ThinkingA}qui ? {SurprisedA}Ben, {AngryB}le neuneu ?
 103)  KENNY
 {Body-A}{DisgustA}Alors, tu restes avec Lilly ?
-{AngryA}Et Carley va rester parce que tu l’a sauvée {AngryB}une fois.
+{AngryA}Et Carley va rester parce que tu l’as sauvée {AngryB}une fois.
 Et moi, j’ai {ThinkingA}qui ? {SurprisedA}Ben, {AngryB}le neuneu ?
 104)  KENNY
 {Body-A}{SadB}Se séparer ? {SadA}Si c’était pas suicidaire,
@@ -327,7 +326,7 @@ Et moi, j’ai {ThinkingA}qui ? {SurprisedA}Ben, {AngryB}le neuneu ?
 112)  KENNY
 [grumpy] Ça t’arrive encore de lui parler ?
 114)  LEE
-C’est vrai...
+Non...
 115)  KENNY
 J’espère.
 On n’avait pas le choix.
@@ -383,27 +382,27 @@ Je parle de mon fils, là.
 [grumpy] Tu déconnes de dire ça.
 Je parle de mon fils, là.
 130)  KENNY
-Peu de choses le perturbe,
+Peu de choses le perturbent,
 mais ça commence à faire beaucoup.
 La ferme, la laiterie...
 147)  KENNY
-Peu de choses le perturbe,
+Peu de choses le perturbent,
 mais ça commence à faire beaucoup.
 La ferme, la laiterie...
 148)  KENNY
-Peu de choses le perturbe,
+Peu de choses le perturbent,
 mais ça commence à faire beaucoup.
 La ferme, la laiterie...
 304)  KENNY
-Peu de choses le perturbe,
+Peu de choses le perturbent,
 mais ça commence à faire beaucoup.
 La ferme, la laiterie...
 309)  KENNY
-Peu de choses le perturbe,
+Peu de choses le perturbent,
 mais ça commence à faire beaucoup.
 La ferme, la laiterie...
 313)  KENNY
-Peu de choses le perturbe,
+Peu de choses le perturbent,
 mais ça commence à faire beaucoup.
 La ferme, la laiterie...
 131)  LEE
@@ -678,7 +677,7 @@ et il faudra bouger d’ici, imbécile !
 226)  KENNY
 [pickup2] [empathic, final explanation] Le mieux est de ne pas abréger ses souffrances, pigé ?
 231)  LEE
-[pickup2] {Body-B}{NormalC}Faudra pas compter sur les militaires.
+[pickup2] {Body-B}{NormalC}Faudra pas compter sur l’armée.
 232)  LEE
 [pickup2] {Body-B}{ThinkingA}Impossible de traverser ce merdier.
 233)  
