@@ -461,9 +461,9 @@ Tu laisses mijoter, hein.
 {Body-B}{SurpriseA}Ah bon ?
 {ThinkingA}Ça le perturbe ?
 144)  LEE
-{Body-B}{AngryA}C’est pas ça.
+{Body-B}{AngryA}C’est pas ce que je voulais.
 297)  LEE
-{Body-B}{AngryA}C’est pas ça.
+{Body-B}{AngryA}C’est pas ce que je voulais.
 145)  LEE
 {Body-B}{ThinkingA}Il a dit quoi ?
 295)  LEE
