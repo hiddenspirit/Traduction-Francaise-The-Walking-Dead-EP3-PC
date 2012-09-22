@@ -108,7 +108,7 @@ Tu t’es débrouillé, non ?
 44)  
 Frapper
 45)  
-Bouteille de médicaments
+Flacon de médicaments
 46)  
 Boîte de médicaments
 47)  
@@ -116,7 +116,7 @@ Barre énergétique
 48)  
 Comptoir
 49)  
-Etagère
+Placard
 52)  KENNY
 [pickup2] Le frigo !
 53)  KENNY
